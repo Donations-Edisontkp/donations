@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[22016,["/Donation-System/_next/static/chunks/1eb33673f4acc3ee.js","/Donation-System/_next/static/chunks/842226c9dc2d5392.js"],""]
+3:I[64874,["/Donation-System/_next/static/chunks/1eb33673f4acc3ee.js","/Donation-System/_next/static/chunks/842226c9dc2d5392.js"],"default"]
+4:I[97367,["/Donation-System/_next/static/chunks/ff1a16fafef87110.js","/Donation-System/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"jMB2Ptj1mqTjxxzdXp5iP","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-6","children":[["$","div",null,{"className":"flex items-center justify-between","children":[["$","h1",null,{"className":"text-2xl font-bold text-gray-900","children":"Campaigns"}],["$","$L2",null,{"href":"/admin/campaigns/new","className":"px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors","children":"+ Create Campaign"}]]}],["$","$L3",null,{"campaigns":[]}]]}],[["$","script","script-0",{"src":"/Donation-System/_next/static/chunks/842226c9dc2d5392.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"loading":null,"isPartial":false}
+6:null
