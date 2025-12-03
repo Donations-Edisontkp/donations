@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[75561,["/Donation-System/_next/static/chunks/1eb33673f4acc3ee.js","/Donation-System/_next/static/chunks/ec972bcd01da2cf2.js"],"default"]
-3:I[97367,["/Donation-System/_next/static/chunks/ff1a16fafef87110.js","/Donation-System/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+2:I[75561,["/_next/static/chunks/1eb33673f4acc3ee.js","/_next/static/chunks/ec972bcd01da2cf2.js"],"default"]
+3:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"buildId":"jMB2Ptj1mqTjxxzdXp5iP","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-6","children":[["$","h1",null,{"className":"text-2xl font-bold text-gray-900","children":"Settings"}],["$","$L2",null,{"settings":{"id":1,"currency":"USD","paypalClientId":null,"paypalClientSecret":null,"paypalMode":null,"stripePublishableKey":null,"stripeSecretKey":null,"adminEmail":null,"donorEmailTemplate":null,"adminEmailTemplate":null}}]]}],[["$","script","script-0",{"src":"/Donation-System/_next/static/chunks/ec972bcd01da2cf2.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"jMB2Ptj1mqTjxxzdXp5iP","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"space-y-6","children":[["$","h1",null,{"className":"text-2xl font-bold text-gray-900","children":"Settings"}],["$","$L2",null,{"settings":{"id":1,"currency":"USD","paypalClientId":null,"paypalClientSecret":null,"paypalMode":null,"stripePublishableKey":null,"stripeSecretKey":null,"adminEmail":null,"donorEmailTemplate":null,"adminEmailTemplate":null}}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/ec972bcd01da2cf2.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
 5:null
